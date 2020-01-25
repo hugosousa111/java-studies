@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TrafficWorld
+comment0.text=\r\n\ Uma\ simula\u00E7\u00E3o\ de\ tr\u00E1fego\ com\ carros\ e\ sem\u00E1foros.\r\n\r\n\ Define\ o\ layout\ dos\ objetos\ no\ mundo.\r\n
+comment1.params=
+comment1.target=TrafficWorld()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ TrafficWorld\r\n\r\n\ Cria\ um\ novo\ mundo\ com\ c\u00E9lulas\ 8x8\ e\ com\ uma\ c\u00E9lula\ maior\ de\ 60x60\ pixels\r\n
+comment2.params=
+comment2.target=void\ populate()
+comment2.text=\r\n\ Povoar\ o\ mundo\ com\ um\ cen\u00E1rio\ fixo\ de\ carros\ e\ sem\u00E1foros.\r\n
+comment3.params=numLights
+comment3.target=void\ randomLights(int)
+comment3.text=\r\n\ Liga\ e\ desliga\ as\ luzes\ no\ sem\u00E1foro\ apresentado.\r\n\r\n\ @param\ numLights\ numero\ de\ sem\u00E1fotos\ que\ s\u00E3o\ inseridos\ no\ mundo\r\n
+numComments=4

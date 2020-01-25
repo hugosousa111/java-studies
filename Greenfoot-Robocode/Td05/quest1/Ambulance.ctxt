@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Ambulance
+comment0.text=\r\n\ Ambulance\ \u2013\ uma\ classe\ para\ representas\ as\ ambul\u00E2ncias.\r\n\r\n
+comment1.params=
+comment1.target=Ambulance()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Indica\ qual\ dire\u00E7\u00E3o\ a\ ambul\u00E2ncia\ se\ movimenta.\r\n
+comment3.params=
+comment3.target=boolean\ verifyTrafficLight()
+comment3.text=\r\n\ N\u00E3o\ verifica\ o\ sem\u00E1foro\ e\ a\ ambul\u00E2ncia\ segue\ seu\ caminho.\r\n
+numComments=4

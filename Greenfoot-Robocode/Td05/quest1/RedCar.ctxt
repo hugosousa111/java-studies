@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=RedCar
+comment0.text=\r\n\ RedCar\ \u2013\ uma\ classe\ para\ representar\ qualquer\ carro\ vermelho.\r\n\r\n
+comment1.params=
+comment1.target=RedCar()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Indica\ qual\ dire\u00E7\u00E3o\ o\ carro\ vermelho\ se\ movimenta.\r\n
+comment3.params=
+comment3.target=boolean\ verifyTrafficLight()
+comment3.text=\r\n\ Verifica\ o\ sem\u00E1foro\ e\ decide\ o\ que\ o\ carro\ vermelho\ pode\ fazer.\ Dobrar\ \u00E0\ direita,\r\n\ \ \ \ preferencialmente\!\r\n
+numComments=4
